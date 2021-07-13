@@ -18,7 +18,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-1 | Ajay Victor  | All    | 3  | X No   |  3   | 3         
+1 | Vysyaraju Srikar  | All    | 3  | X No   |  3   | 3         
 
 ## Challenges Faced and How Was It Overcome
 
