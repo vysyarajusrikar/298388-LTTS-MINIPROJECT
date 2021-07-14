@@ -1,7 +1,7 @@
 # Ticket booking System
 Booking system for services as per users requirement.
 
-Cppcheck | Code Quality | Unity | [Git Inspector](using github.io option)
+Cppcheck | Unity | Code Quality | [Git Inspector](using github.io option)
 ---------|----------|-------|--------------
 |[![Code Quality - Static Code - Cppcheck](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml) |[![Unit Testing - Unity](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml)
 
