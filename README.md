@@ -1,9 +1,9 @@
 # Ticket booking System
 Booking system for services as per users requirement.
 
-Cppcheck | Unity    | [Git Inspector](using github.io option) | Code Quality
+Cppcheck | Unity    | [Git Inspector](using github.io option) | Build Status
 ---------|----------|-----------------------------------------|--------------
-|[![Code Quality - Static Code - Cppcheck](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml) |[![Unit Testing - Unity](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml) |[![Contribution Check - Git Inspector](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/GitInspector.yml)
+|[![Code Quality - Static Code - Cppcheck](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml) |[![Unit Testing - Unity](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml) |[![Contribution Check - Git Inspector](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/GitInspector.yml) |[![C/C++ CI - Build Status](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/C-C++%20CI-Build%20Status.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/C-C++%20CI-Build%20Status.yml)
 
 ## Folder Structure
 Folder             | Description
