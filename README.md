@@ -3,7 +3,7 @@ Booking system for services as per users requirement.
 
 Cppcheck | Unity    | [Git Inspector](using github.io option) | Code Quality
 ---------|----------|-----------------------------------------|--------------
-|[![Code Quality - Static Code - Cppcheck](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml) |[![Unit Testing - Unity](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml) |
+|[![Code Quality - Static Code - Cppcheck](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Cppcheck.yml) |[![Unit Testing - Unity](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/Unity.yml) |[![Contribution Check - Git Inspector](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/vysyarajusrikar/298388-LTTS-MINIPROJECT/actions/workflows/GitInspector.yml)
 
 ## Folder Structure
 Folder             | Description
